@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_optionI"
+        android:icon="@drawable/ic_calculate"
+        android:title="Calculate"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/menu_optionII"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/menu_optionIII"
+        android:icon="@drawable/ic_list"
+        android:title="List"
+        tools:ignore="HardcodedText" />
+</menu>
